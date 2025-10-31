@@ -1,20 +1,83 @@
-<<<<<<< HEAD
-# React + Vite
+# 🎯 Refokus
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Refokus is a modern React-based web project built to explore advanced UI/UX design and responsiveness with a clean, minimal approach. The project focuses on delivering smooth animations, reusable components, and a performance-first architecture — inspired by modern websites like Refokus and Framer.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## React Compiler
+- ⚡ Built with **React + Vite**
+- 🎨 Styled using **Tailwind CSS**
+- 🧩 Reusable and modular components
+- 📱 Fully responsive design
+- ✨ Smooth animations with **Framer Motion**
+- 🧠 Clean and maintainable code structure
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# Refokus
->>>>>>> cbb16415227c03d8a3b97d81011893b251fcf7dc
+| Category        | Technology          |
+|-----------------|--------------------|
+| Framework       | React (Vite setup) |
+| Styling         | Tailwind CSS       |
+| Animations      | Framer Motion      |
+| Version Control | Git + GitHub       |
+| Package Manager | npm / yarn         |
+
+---
+
+## 🧩 Folder Structure
+
+
+refokus/
+├── public/
+│ └── assets/ # Images & static files
+├── src/
+│ ├── components/ # Reusable UI components
+│ ├── pages/ # Page-level components
+│ ├── App.jsx # Main app entry
+│ ├── index.css # Global styles
+│ └── main.jsx # React DOM rendering
+├── package.json
+└── tailwind.config.js
+
+
+
+---
+
+## ⚙️ Installation and Setup
+
+Follow these steps to run the project locally 👇
+
+```bash
+# Clone the repository
+git clone https://github.com/vaibhavrajharsh/refocus.git
+
+# Navigate into the project folder
+cd refokus
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
+
+
+
+| Command           | Description              |
+| ----------------- | ------------------------ |
+| `npm run dev`     | Start development server |
+| `npm run build`   | Build for production     |
+| `npm run preview` | Preview production build |
+| `npm run lint`    | Run ESLint checks        |
+
+
+🧑‍💻 Author
+
+Vaibhav Raj Harsh
+🌐 GitHub
+ | 💼 LinkedIn
+
+ “Design is not just what it looks like and feels like — design is how it works.”
+— Steve Jobs
