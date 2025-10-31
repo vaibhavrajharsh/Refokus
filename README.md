@@ -15,6 +15,7 @@ Refokus is a modern React-based web project built to explore advanced UI/UX desi
 
 ---
 
+
 ## 🛠️ Tech Stack
 
 | Category        | Technology          |
@@ -24,12 +25,11 @@ Refokus is a modern React-based web project built to explore advanced UI/UX desi
 | Animations      | Framer Motion      |
 | Version Control | Git + GitHub       |
 | Package Manager | npm / yarn         |
-
 ---
 
+
 ## 🧩 Folder Structure
-
-
+```
 refokus/
 ├── public/
 │ └── assets/ # Images & static files
@@ -41,6 +41,7 @@ refokus/
 │ └── main.jsx # React DOM rendering
 ├── package.json
 └── tailwind.config.js
+```
 
 
 
@@ -63,6 +64,7 @@ npm install
 
 # Start the development server
 npm run dev
+```
 
 
 | Command           | Description              |
