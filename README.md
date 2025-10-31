@@ -44,6 +44,7 @@ refokus/
 
 
 
+
 ---
 
 ## ⚙️ Installation and Setup
@@ -64,7 +65,6 @@ npm install
 npm run dev
 
 
-
 | Command           | Description              |
 | ----------------- | ------------------------ |
 | `npm run dev`     | Start development server |
@@ -78,6 +78,7 @@ npm run dev
 Vaibhav Raj Harsh
 🌐 GitHub
  | 💼 LinkedIn
+
 
  “Design is not just what it looks like and feels like — design is how it works.”
 — Steve Jobs
