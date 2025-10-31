@@ -73,11 +73,11 @@ npm run dev
 | `npm run lint`    | Run ESLint checks        |
 
 
-🧑‍💻 Author
+## 🧑‍💻 Author
 
-Vaibhav Raj Harsh
-🌐 GitHub
- | 💼 LinkedIn
+**Vaibhav Raj Harsh**  
+🌐 [GitHub](https://github.com/vaibhavrajharsh) | 💼 [LinkedIn](https://www.linkedin.com/in/vaibhavrajharsh)
+
 
 
  “Design is not just what it looks like and feels like — design is how it works.”
